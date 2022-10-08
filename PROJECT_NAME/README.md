@@ -10,7 +10,7 @@ Please [__fork this repo__](https://help.github.com/articles/fork-a-repo/) and u
 ##### Nigeria
 
 ##### Team Members
-- Opeyemi, Fronthead
+- Opeyemi, Frontend
 - Teammate 2, Backend
 - Teammate 3, Backend
 
