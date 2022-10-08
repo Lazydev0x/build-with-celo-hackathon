@@ -3,16 +3,16 @@
 _This is a sample submission repository.
 Please [__fork this repo__](https://help.github.com/articles/fork-a-repo/) and use this as a starting point for your hackathon project._
 
-## Project Name
+## Make
 ### Team name
-#### Hackathon Track
+#### Web3 composer
 
-##### Region location
+##### Nigeria
 
 ##### Team Members
-- Teammate 1, role
-- Teammate 2, role
-- Teammate 3, role
+- Opeyemi, Fronthead
+- Teammate 2, Backend
+- Teammate 3, Backend
 
 #### Project Description
 Provide a clear statement of the challenges/issues/problems/gaps your project engages as well as a brief, high-level description of how your project engages the areas you've identified. What is the value of your approach? Who are the intended users?
